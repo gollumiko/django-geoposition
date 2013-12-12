@@ -41,3 +41,7 @@
 .geoposition-results li:first-child {
     border-top: 0;
 }
+
+.geoposition-map img{
+    max-width: none;
+}
